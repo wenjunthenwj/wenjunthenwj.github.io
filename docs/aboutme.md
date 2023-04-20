@@ -78,18 +78,3 @@ At first glance, I thought Valorant would be what TF2 could only dream of being 
 <i> Genshin Impact (RPG) </i>
 
 The amount of marketing this game had when it first launched was crazy, the artstyle, world building and characters seemed so cool. As much as I loved the combat mechanics and world exploration, I hated reading through long chunks of text and sitting through long-winded story quests. Similar to Valorant, just based on the sheer number of people that know about Genshin, its always a common topic that comes up when I talk to new people. I always enjoy the feeling of levelling up your characters and getting better artifacts and weapons for them to do more damage.
-
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
