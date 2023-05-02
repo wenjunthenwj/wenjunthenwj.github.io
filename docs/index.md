@@ -37,7 +37,7 @@ Rock and pop music has always been my go to music of choice growing up. Bands li
 
 <i>:octicons-dot-fill-16: Electronic and Dance music </i>
 
-Recently one of my favourite EDM artists is Porter Robinson. I was so inspired to get back into playing and making music after watching [his concert](https://www.youtube.com/watch?v=THjekE5p2aw&t=1634s) in Singapore in 2023. His newest album 'Nurture' is probably my favourite album so far on spotify and I love almost every song in that album.
+One of my favourite EDM artists is Porter Robinson. I was so inspired to get back into playing and making music after watching [his concert](https://youtu.be/THjekE5p2aw) when he came to Singapore in 2023. His newest album 'Nurture' is probably my favourite album so far on spotify and I love almost every song in that album.
 
 <i>:octicons-dot-fill-16: J-Pop and soundtrack for Makoto Shinkai Movies </i>
 
@@ -47,7 +47,7 @@ Recently one of my favourite EDM artists is Porter Robinson. I was so inspired t
 
 Despite spending way too many hours playing video games growing up, gaming has been such an instrumental part of my life. So much so that one of my initial dream jobs was to be a gaming YouTuber. These were the games I spent a significant time playing over my life and has shaped who I am today.
 
-<b>:octicons-dot-fill-16: Maplestory (MMORPG): </b>
+<i>:octicons-dot-fill-16: Maplestory (MMORPG): </i>
 
 I remember when I was Primary 2, our family managed to get a first computer and all my classmates were talking about the new hottest game back then, Maplestory. I remember not being able to sleep while Maplestory took 8 hours to download on my computer overnight. The graphics and soundtrack were so amazing and levelling up my character to grow stronger was so satisfying. I was instantly hooked. The idea of being able to play with my friends in realtime was so crazy to me. I still get nostalgic everytime I listen to the Maplestory soundtrack, and some of my best memories gaming came from this.
 
