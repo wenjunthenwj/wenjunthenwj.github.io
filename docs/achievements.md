@@ -2,7 +2,7 @@
 
 ## <b> Collecting stars </b>
 
-Wen Jun uses a small-scale gamification system in his classes for extra study motivation. Homework assignments must be handed up on time and are graded on a 1 star(:star:), 2 star(:star::star:) or 3 star(:star::star::star:) completion. The total number of stars will be tallied up over the year and the top 3 students will recieve a Math Genius Coin and maybe some other reward as well at the end of the year.
+Wen Jun uses a small-scale gamification system in his classes for extra study motivation. Homework assignments must be handed up on time and are graded on a 1 star(:star:), 2 star(:star::star:) or 3 star(:star::star::star:) completion. The total number of stars will be tallied up over the year and the top 3 (subject to change) students will recieve a Math Genius Coin and maybe some other reward as well at the end of the year.
 
 ## <b> Unlocking achievements </b>
 
