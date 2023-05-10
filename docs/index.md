@@ -1,7 +1,5 @@
 # About me 
 
-![Image title](https://i.ibb.co/6BHCYp7/informal-Wen-Jun-cropped.jpg){style="height:200px;width:200px", align = left}
-
 Welcome to my personal website where you can find out more about passions and interests. And it's also to host my leaderboard for my teaching classes. You can find little snippets of my life, personal projects to my favourite games and music. :smile:
 ## <b> Teaching experience </b>
 
@@ -25,21 +23,21 @@ I’d like to sum up my teaching philosophy in one sentence: “Before I am a te
 
 After graduating from secondary school, I went into engineering because I enjoyed studying Math and Physics, and airplanes looked cool at that time. Even though I sort of enjoyed studying engineering in polytechnic and university, I couldn’t really foresee myself working as an engineer. While in my first year in NUS, I started to get more and more interested in machine learning and AI and eventually took up a minor in it. 
 
-The main fields of AI research that really interest me are in Natural Language Processing (NLP) and game playing agents. I remember spending full days on end trying to code out a chess-playing AI using an enhanced version of the [Minimax algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/) for an assignment, and it’s probably one of my proudest accomplishments when I managed to get it to work. I eventually did a final year project on an AI-based aircon system to achieve thermal comfort under the supervision of [Prof. Daniel Sng](https://cde.nus.edu.sg/me/staff/sng-wei-meng-daniel/).
+The main fields of AI research that really interest me are in Natural Language Processing (NLP) and game playing agents. I remember spending full days on end trying to code out a chess-playing AI using an enhanced version of the [Minimax algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/) for an assignment, and it’s probably one of my proudest accomplishments when I managed to get it to work. I eventually did a final year project on an AI-based aircon system to achieve thermal comfort.
 
-Even though I already commited to being a teacher, I still enjoy studying and keeping up to date with AI research, seeing how fast new technologies are emerging. Maybe in a parallel universe I would have pursued being an AI researcher instead.
+Even though I already commited to being a teacher, I still enjoy studying and keeping up to date with AI research, seeing how fast new technologies are emerging. Maybe in a parallel universe I would have pursued becoming an AI researcher instead.
 
 ## <b> Music and Anime </b>
 
 <i>:octicons-dot-fill-16: 2000's Emo pop and Rock music </i>
 
-Rock and pop music has always been my go to music of choice growing up. Bands like Panic at the disco, Linkin Park and My Chemical Romance are some of my favourites. It's also one of the reasons why I wanted to pick up learning the guitar.
+Rock and pop music has always been my go to music of choice growing up. Artists like Avril Lavigne, Panic! at the Disco, Linkin Park and My Chemical Romance are some of my favourites. It's also one of the reasons why I picked up learning the guitar a few years back.
 
 <i>:octicons-dot-fill-16: Electronic and Dance music </i>
 
 One of my favourite EDM artists is Porter Robinson. I was so inspired to get back into playing and making music after watching [his concert](https://youtu.be/THjekE5p2aw) when he came to Singapore in 2023. His newest album 'Nurture' is probably my favourite album so far on spotify and I love almost every song in that album.
 
-<i>:octicons-dot-fill-16: J-Pop and soundtrack for Makoto Shinkai Movies </i>
+<i>:octicons-dot-fill-16: Japanese Music (J-Pop) </i>
 
 [Your Name](https://myanimelist.net/anime/32281/Kimi_no_Na_wa) was probably my favourite anime movie in my life. The animation and soundtrack was so amazing the first time and it blew my mind the first time I watched it. I even got motivated enough to try to learn a few of their songs on the piano even though I quit learning piano many many years ago.
 
