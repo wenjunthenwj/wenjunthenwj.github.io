@@ -1,0 +1,12 @@
+Opening up VScode:
+cd Desktop/website/venv/Scripts
+activate.bat
+cd ..
+cd ..
+code .
+
+Testing website locally:
+mkdocs serve
+CTRL + S
+
+Pushing to github:

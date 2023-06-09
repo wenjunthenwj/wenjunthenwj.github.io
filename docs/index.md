@@ -1,25 +1,29 @@
 # About me 
 
-Welcome to my personal website where you can find out more about passions and interests. And it's also to host my leaderboard for my teaching classes. You can find little snippets of my life, personal projects to my favourite games and music. :smile:
+Hi! I'm Wen Jun and my favourite animal is the axolotl. Welcome to my personal website where you can find out more about passions and interests. And it's also to host my leaderboard for my teaching classes. You can find little snippets of my life, personal projects to my favourite games and music.
+
 ## <b> Teaching experience </b>
 
-<i> :octicons-dot-fill-16: Freelance math tutor (2020)
+<i> 
+:octicons-dot-fill-16: [COMPLETE A Math Guide Youtube video (2023)](https://youtu.be/tWSbQ-FF3Kg)
+
+:octicons-dot-fill-16: Programming Instructor, SGCodeCampus (2021-2023)
 
 :octicons-dot-fill-16: Teaching Intern, Anglican High School (Summer 2021 and 2022)
 
-:octicons-dot-fill-16: Programming Instructor, SGCodeCampus (2021-2023) </i> 
+:octicons-dot-fill-16: Freelance math tutor (2020) </i> 
 
 I first picked up teaching while in university as a side hustle and also because I really enjoy talking and explaining stuff, partially also because I am quite an extrovert. One of the main reasons why I enjoy teaching is to be able to create content and unique experiences for my students. I also realised I really enjoyed being in a school environment after teaching in Anglican High school for a few months. I still remembered my first ever form class wrote me a big card before I left and it has given me so much encouragement through tough times in university.
 
-I decided to just try my luck and applied to MOE to become a full-time teacher. After a really long time they got back to me with an offer, and I felt stuck in a dilemma about having to ‘give up’ engineering and AI or to pursue teaching. But after reflecting on all the amazing memories and the joy I felt while teaching, I felt that it was the right choice for me. I prayed about it and decided to full commit hopefully never look back.
+I decided to just try my luck and applied to MOE to become a full-time teacher. After a really long time they got back to me with an offer, and I felt stuck in a dilemma about having to ‘give up’ engineering and AI or to pursue teaching. But after reflecting on all the amazing memories and the joy I felt while teaching, I felt that it was the right choice for me. I prayed about it and decided to full commit and hopefully never look back.
 
 I’d like to sum up my teaching philosophy in one sentence: “Before I am a teacher, I will be a forever student. Never stop learning.”
 
 ## <b> Education </b>
 
-<i>:octicons-dot-fill-16: Diploma in Aeronautical Engineering, Singapore Polytechnic (2018)
+<i>:octicons-dot-fill-16: B.Eng, Mechanical Engineering with minor in Artificial Intelligence, NUS (2023) 
 
-:octicons-dot-fill-16: Bachelor of Mechanical Engineering with minor in Artificial Intelligence, NUS (2023) </i>
+:octicons-dot-fill-16: Diploma in Aeronautical Engineering, Singapore Polytechnic (2018)</i>
 
 After graduating from secondary school, I went into engineering because I enjoyed studying Math and Physics, and airplanes looked cool at that time. Even though I sort of enjoyed studying engineering in polytechnic and university, I couldn’t really foresee myself working as an engineer. While in my first year in NUS, I started to get more and more interested in machine learning and AI and eventually took up a minor in it. 
 
@@ -43,7 +47,7 @@ One of my favourite EDM artists is Porter Robinson. I was so inspired to get bac
 
 ## <b> Video Games </b>
 
-Despite spending way too many hours playing video games growing up, gaming has been such an instrumental part of my life. So much so that one of my initial dream jobs was to be a gaming YouTuber. These were the games I spent a significant time playing over my life and has shaped who I am today.
+Despite spending way too many hours playing video games growing up, gaming has been such an instrumental part of my life. So much so that one of my initial dream jobs was to be a gaming YouTuber. These were the games I spent a significant time playing while growing and has shaped who I am today.
 
 <i>:octicons-dot-fill-16: Maplestory (MMORPG): </i>
 
@@ -55,7 +59,7 @@ All the cool kids in my school owned a Gameboy at that time and I begged my mom 
 
 <i>:octicons-dot-fill-16: Blackshot (FPS): </i>
 
-My first experience in the world of first-person shooters genre, again it was the most popular game in the school when I was around Primary 6. This was also my first introduction to the world of ‘competitive’ games, coming with the thrill of winning and the sad losses. It was very different to Maplestory as you don’t get better as you level up your character, but its through your skill and gameplay. And I realised I really enjoyed the process of ‘getting better’ and winning alongside my friends.
+My first experience in the world of first-person shooters genre, again it was the most popular game in the school when I was around Primary 6. This was also my first introduction to the world of ‘competitive’ games, coming with the thrill of winning and the sad losses. It was very different to Maplestory as you don’t get better as you level up your character, but its through your skill and improving your gameplay and strategy. And I realised I really enjoyed the process of getting better and winning alongside my friends.
 
 <i>:octicons-dot-fill-16: Minecraft (Sandbox): </i>
 
