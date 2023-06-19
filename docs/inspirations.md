@@ -20,6 +20,12 @@ Mike is a YouTuber who documents his process of learning new skills in short amo
 
 [How Hard is it to Get Into Oxford University?](https://youtu.be/_deqsuKIf_o){.md-button}
 
+## <b> Vsauce </b>
+
+It's really tough to describe the genre of Vsauce's content, but for me it has always been a channel that asks questions that sparks curiousity. Their videos are from all sorts of topics, from psychology to discussing time travel, and I always found it so cool that they were able to make it SO INTERESTING, even for the average person who may not be interested in that kinda stuff. That's what makes him such a great 'teacher', one that sparks curiousity in his viewers and explains stuff in a way that makes you engaged.
+
+[The Zipf Mystery](https://youtu.be/fCn8zs912OE){.md-button}
+
 ## <b> Teachers who have taught me </b>
 
 I would have been nothing without the support of all the teachers in my life who really made an impact on me. From Primary School all the way to University, there are too many teachers that I have the utmost thanks and respect for. I would like to extend special thanks to my final year project supervisor [Prof. Daniel Sng](https://cde.nus.edu.sg/me/staff/sng-wei-meng-daniel/) as well as [Prof. Aaron Tan](https://www.comp.nus.edu.sg/cs/people/tantc/), [Prof. Alan Cheng](https://www.comp.nus.edu.sg/cs/people/hcheng/), and [Prof. Kan Min Yen](https://www.comp.nus.edu.sg/cs/people/kanmy/) for being such amazing professors from the NUS computing department.

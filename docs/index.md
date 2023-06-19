@@ -1,11 +1,11 @@
 # About me 
 
-Hi! I'm Wen Jun and my favourite animal is the axolotl. Welcome to my personal website where you can find out more about passions and interests. And it's also to host my leaderboard for my teaching classes. You can find little snippets of my life, personal projects to my favourite games and music.
+Greetings and welcome to my personal website :D My favourite animal is the axolotl, and you will see my mascot, Axie the Axolotl scattered throughout. This is where you can find out more about my passions and interests. And it's also a great way to host my leaderboard for my teaching classes. Hope you will find little snippets of my life, personal projects to my favourite games and music when browsing through.
 
 ## <b> Teaching experience </b>
 
 <i> 
-:octicons-dot-fill-16: [COMPLETE A Math Guide Youtube video (2023)](https://youtu.be/tWSbQ-FF3Kg)
+:octicons-dot-fill-16: [A Math Complete Guide Youtube video (2023)](https://youtu.be/tWSbQ-FF3Kg)
 
 :octicons-dot-fill-16: Programming Instructor, SGCodeCampus (2021-2023)
 
