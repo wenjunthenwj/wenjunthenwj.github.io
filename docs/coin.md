@@ -1,6 +1,6 @@
 # Math Genius coin
 
-![Education](images/coin banner.png){style="height:480px;width:960px",align = left}
+![Education](images/coin banner.png){align = left}
 
 I really wanted a physical object that represents me that I can give as a gift, sort of like a namecard - but cooler. I took inspiration from the [MCC coin](https://twitter.com/MCChampionship_/status/1251631949975826433) and came up with the concept art my own with the help of a friend. 
 

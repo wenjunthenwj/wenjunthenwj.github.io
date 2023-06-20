@@ -1,6 +1,6 @@
 # Stars and Achievements
 
-![Stars](images/stars banner.png){style="height:480px;width:960px",align = left}
+![Stars](images/stars banner.png){align = left}
 
 ## <b> Collecting stars </b>
 

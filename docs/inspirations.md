@@ -1,6 +1,6 @@
 # Teaching Inspirations
 
-![Inspirations](images/inspirations banner.png){style="height:480px;width:960px",align = left}
+![Inspirations](images/inspirations banner.png){align = left}
 
 I really like quote "If I have seen further, it is by standing on the shoulders of giants" by Sir Isaac Newton. This page is where I honor and credit the many people and content creators that have inspired me and my teaching style.
 
