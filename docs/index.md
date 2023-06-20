@@ -15,9 +15,9 @@ Greetings and welcome to my personal website :D My favourite animal is the axolo
 
 :octicons-dot-fill-16: Freelance math tutor (2020) </i> 
 
-I first picked up teaching while in university as a side hustle and also because I really enjoy talking and explaining stuff, partially also because I am quite an extrovert. One of the main reasons why I enjoy teaching is to be able to create content and unique experiences for my students. I also realised I really enjoyed being in a school environment after teaching A-math in Anglican High school for a few months. I still remembered my first ever form class wrote me a big card before I left and it has given me so much encouragement through tough times in university.
+I first picked up teaching while in university as a side hustle and also because I really enjoy talking and explaining stuff, partially also because I am quite an extrovert. One of the main reasons why I enjoy teaching is to be able to create content and unique experiences for my students. I also realised I really enjoyed being in a school environment after teaching A-math in Anglican High during my summer vacation in university. I still remembered my first ever form class wrote me a big card before I left and it has given me so much encouragement through tough times, thank you 4H <3
 
-I decided to just try my luck and applied to MOE to become a full-time teacher. After a really long time they got back to me with an offer, and I felt stuck in a dilemma about having to ‘give up’ engineering and AI or to pursue teaching. But after reflecting on all the amazing memories and the joy I felt while teaching, I felt that it was the right choice for me. I prayed about it and decided to full commit and hopefully never look back.
+I decided to just try my luck and applied to MOE to become a full-time teacher. They got back to me with an offer, and I felt stuck in a dilemma about choosing between working in engineering or to pursue teaching. But after reflecting on all the amazing memories and the joy I felt while teaching, I felt that it was the right choice for me. I prayed about it and decided to full commit and hopefully never look back.
 
 I’d like to sum up my teaching philosophy in one sentence: “Before I am a teacher, I will be a forever student. Never stop learning.”
 
@@ -33,7 +33,7 @@ After graduating from secondary school, I went into engineering because I enjoye
 
 The main fields of AI research that really interest me are in Natural Language Processing (NLP) and game playing agents. I remember spending full days on end trying to code out a chess-playing AI using an enhanced version of the [Minimax algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/) for an assignment, and it’s probably one of my proudest accomplishments when I managed to get it to work. I eventually did a final year project on an AI-based aircon system to achieve thermal comfort.
 
-Even though I already commited to being a teacher, I still enjoy studying and keeping up to date with AI research, seeing how fast new technologies are emerging. Maybe in a parallel universe I would have pursued becoming an AI researcher instead.
+Even though I already commited to being a teacher, I still enjoy studying and keeping up to date with AI research, seeing how fast new technologies are emerging. Maybe in a parallel universe I would have become an AI researcher instead.
 
 ## <b> Music and Anime </b>
 
@@ -47,7 +47,7 @@ Rock and pop music has always been my go to music of choice growing up. Artists 
 
 One of my favourite EDM artists is Porter Robinson. I was so inspired to get back into playing and making music after watching [his concert](https://youtu.be/THjekE5p2aw) when he came to Singapore in 2023. His newest album 'Nurture' is probably my favourite album so far on spotify and I love almost every song in that album.
 
-<i>:octicons-dot-fill-16: Japanese Music (J-Pop) </i>
+<i>:octicons-dot-fill-16: Anime Music & J-Pop </i>
 
 [Your Name](https://myanimelist.net/anime/32281/Kimi_no_Na_wa) was probably my favourite anime movie in my life. The animation and soundtrack was so amazing the first time and it blew my mind the first time I watched it. I even got motivated enough to try to learn a few of their songs on the piano even though I quit learning piano many many years ago.
 
@@ -83,8 +83,8 @@ Ah yes, the game I spent more hours playing than I would like to admit. Doing a 
 
 <i>:octicons-dot-fill-16: Valorant (FPS): </i>
 
-At first glance, I thought Valorant would be what TF2 could only dream of being - having actual developmental team that listens to their players. Even though I loved the characters and the aesthetic of the game, I didn’t really like the round-based ‘die once and not respawn’ type of gameplay. However, just due so many of my friends and students playing it, it was always a common topic to talk about meeting new people and hopping on a game with some friends to have fun.
+At first glance, I thought Valorant would be what TF2 could only dream of being - having actual developmental team that listens to their players. Even though I love the characters and the aesthetic of the game, I didn’t really like the round-based ‘die once and not respawn’ type of gameplay which is similar to CS. However, its really fun to play together with my friends, and I really enjoyed the friendships and talking about life over a game of Valorant. Yes, I am a jett main because dash go woosh.
 
 <i>:octicons-dot-fill-16: Genshin Impact (RPG): </i>
 
-The amount of marketing this game had when it first launched was crazy, the artstyle, world building and characters seemed so cool. As much as I loved the combat mechanics and world exploration, I hated reading through long chunks of text and sitting through long-winded story quests. Similar to Valorant, just based on the sheer number of people that know about Genshin, its always a common topic that comes up when I talk to new people. I always enjoy the feeling of levelling up your characters and getting better artifacts and weapons for them to do more damage.
+The amount of marketing this game had when it first launched was crazy, the artstyle, world building and characters seemed so cool. As much as I loved the combat mechanics and world exploration, I hated reading through long chunks of text and sitting through long-winded story quests. Similar to Valorant, just based on the sheer number of people that know about Genshin, its always a common topic that comes up when I talk to new people. I always enjoy the feeling of levelling up your characters and getting better artifacts and weapons for them to do more damage. And also wishing, ah yes, primogems is life.
