@@ -4,6 +4,8 @@ Greetings and welcome to my personal website :D My favourite animal is the axolo
 
 ## <b> Teaching experience </b>
 
+![Teaching](images/teaching banner.png){style="height:480px;width:960px",align = left}
+
 <i> 
 :octicons-dot-fill-16: [A Math Complete Guide Youtube video (2023)](https://youtu.be/tWSbQ-FF3Kg)
 
@@ -21,6 +23,8 @@ I’d like to sum up my teaching philosophy in one sentence: “Before I am a te
 
 ## <b> Education </b>
 
+![Education](images/education banner.png){style="height:480px;width:960px",align = left}
+
 <i>:octicons-dot-fill-16: B.Eng, Mechanical Engineering with minor in Artificial Intelligence, NUS (2023) 
 
 :octicons-dot-fill-16: Diploma in Aeronautical Engineering, Singapore Polytechnic (2018)</i>
@@ -32,6 +36,8 @@ The main fields of AI research that really interest me are in Natural Language P
 Even though I already commited to being a teacher, I still enjoy studying and keeping up to date with AI research, seeing how fast new technologies are emerging. Maybe in a parallel universe I would have pursued becoming an AI researcher instead.
 
 ## <b> Music and Anime </b>
+
+![Music](images/music banner.png){style="height:480px;width:960px",align = left}
 
 <i>:octicons-dot-fill-16: 2000's Emo pop and Rock music </i>
 
@@ -46,6 +52,8 @@ One of my favourite EDM artists is Porter Robinson. I was so inspired to get bac
 [Your Name](https://myanimelist.net/anime/32281/Kimi_no_Na_wa) was probably my favourite anime movie in my life. The animation and soundtrack was so amazing the first time and it blew my mind the first time I watched it. I even got motivated enough to try to learn a few of their songs on the piano even though I quit learning piano many many years ago.
 
 ## <b> Video Games </b>
+
+![Games](images/games banner.png){style="height:480px;width:960px",align = left}
 
 Despite spending way too many hours playing video games growing up, gaming has been such an instrumental part of my life. So much so that one of my initial dream jobs was to be a gaming YouTuber. These were the games I spent a significant time playing while growing and has shaped who I am today.
 
