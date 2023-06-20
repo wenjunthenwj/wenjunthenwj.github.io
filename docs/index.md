@@ -4,7 +4,7 @@ Greetings and welcome to my personal website :D My favourite animal is the axolo
 
 ## <b> Teaching experience </b>
 
-![Teaching](images/teaching banner.png){style="height:480px;width:960px",align = left}
+![Teaching](images/teaching banner.png){align = left}
 
 <i> 
 :octicons-dot-fill-16: [A Math Complete Guide Youtube video (2023)](https://youtu.be/tWSbQ-FF3Kg)
@@ -15,7 +15,7 @@ Greetings and welcome to my personal website :D My favourite animal is the axolo
 
 :octicons-dot-fill-16: Freelance math tutor (2020) </i> 
 
-I first picked up teaching while in university as a side hustle and also because I really enjoy talking and explaining stuff, partially also because I am quite an extrovert. One of the main reasons why I enjoy teaching is to be able to create content and unique experiences for my students. I also realised I really enjoyed being in a school environment after teaching in Anglican High school for a few months. I still remembered my first ever form class wrote me a big card before I left and it has given me so much encouragement through tough times in university.
+I first picked up teaching while in university as a side hustle and also because I really enjoy talking and explaining stuff, partially also because I am quite an extrovert. One of the main reasons why I enjoy teaching is to be able to create content and unique experiences for my students. I also realised I really enjoyed being in a school environment after teaching A-math in Anglican High school for a few months. I still remembered my first ever form class wrote me a big card before I left and it has given me so much encouragement through tough times in university.
 
 I decided to just try my luck and applied to MOE to become a full-time teacher. After a really long time they got back to me with an offer, and I felt stuck in a dilemma about having to ‘give up’ engineering and AI or to pursue teaching. But after reflecting on all the amazing memories and the joy I felt while teaching, I felt that it was the right choice for me. I prayed about it and decided to full commit and hopefully never look back.
 
@@ -23,7 +23,7 @@ I’d like to sum up my teaching philosophy in one sentence: “Before I am a te
 
 ## <b> Education </b>
 
-![Education](images/education banner.png){style="height:480px;width:960px",align = left}
+![Education](images/education banner.png){align = left}
 
 <i>:octicons-dot-fill-16: B.Eng, Mechanical Engineering with minor in Artificial Intelligence, NUS (2023) 
 
@@ -37,7 +37,7 @@ Even though I already commited to being a teacher, I still enjoy studying and ke
 
 ## <b> Music and Anime </b>
 
-![Music](images/music banner.png){style="height:480px;width:960px",align = left}
+![Music](images/music banner.png){align = left}
 
 <i>:octicons-dot-fill-16: 2000's Emo pop and Rock music </i>
 
@@ -53,7 +53,7 @@ One of my favourite EDM artists is Porter Robinson. I was so inspired to get bac
 
 ## <b> Video Games </b>
 
-![Games](images/games banner.png){style="height:480px;width:960px",align = left}
+![Games](images/games banner.png){align = left}
 
 Despite spending way too many hours playing video games growing up, gaming has been such an instrumental part of my life. So much so that one of my initial dream jobs was to be a gaming YouTuber. These were the games I spent a significant time playing while growing and has shaped who I am today.
 
