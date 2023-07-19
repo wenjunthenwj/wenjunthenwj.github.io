@@ -1,12 +1,12 @@
 # Leaderboard
 
-## <b> 4A </b>
+## <b> 2 Express E-Math </b>
 
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="4A") }}
+{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="2Exp") }}
 
-## <b> 4B </b>
+## <b> 3 NA E-Math </b>
 
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="4B") }}
+{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="3NA") }}
 
 ## <b> 4C </b>
 
