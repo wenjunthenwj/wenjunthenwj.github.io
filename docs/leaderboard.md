@@ -8,15 +8,4 @@
 
 {{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="3NA") }}
 
-## <b> 4C </b>
-
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="4C") }}
-
-## <b> 4D </b>
-
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="4D") }}
-
-## <b> 4E </b>
-
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="4E") }}
 
