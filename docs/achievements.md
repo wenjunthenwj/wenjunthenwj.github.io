@@ -14,7 +14,7 @@ Other than completing homework problems, students can earn stars by unlocking ac
 
 <b>(:star:) I love Math: </b> Send me a telegram bubble of themselves or with a group of friends saying "I love math!" with a thumbs up sign
 
-<b>(:star:) I Say Hi: </b> Goes to the first person that likes and replies "FLFC" to any of my messages in the group chat.
+<b>(:star:) I Say Hi: </b> Goes to the first three people that likes and replies "FLFC" to any of my messages in the group chat.
 
 <b>(:star:) Consultation Star: </b> Arranged and attended a solo or small group math consultation with me.
 
@@ -36,9 +36,9 @@ Other than completing homework problems, students can earn stars by unlocking ac
 
 <b>(:star::star::star:) Extra credit: </b> Invent an original question along with the solutions on a topic learnt in class and submit it to me (I may even use it as a future homework question!).
 
-## <b> Hard Achievements </b>
-
 <b>(:star::star::star::star::star:) Memelord: </b> Invent an funny original math meme about a topic learnt in class that I may use in my slides for future lessons.
+
+## <b> Hard Achievements </b>
 
 <b>(:star::star::star::star::star:) Math Enthusiast: </b> Research about a math topic that's more advanced than our syllabus and volunteer to give a short presentation about it to the class.
 
