@@ -13,3 +13,6 @@ Pushing to github:
 git add .
 git commit -m 'Adding youtube video'
 git push origin main
+
+After an academic year:
+Change leaderboard.md read excel sheet names

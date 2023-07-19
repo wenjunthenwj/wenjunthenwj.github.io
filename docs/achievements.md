@@ -36,7 +36,7 @@ Other than completing homework problems, students can earn stars by unlocking ac
 
 <b>(:star::star::star:) Extra credit: </b> Invent an original question along with the solutions on a topic learnt in class and submit it to me (I may even use it as a future homework question!).
 
-<b>(:star::star::star::star::star:) Memelord: </b> Invent an funny original math meme about a topic learnt in class that I may use in my slides for future lessons.
+<b>(:star::star::star:) Memelord: </b> Invent an funny original math meme about a topic learnt in class that I may use in my slides for future lessons.
 
 ## <b> Hard Achievements </b>
 
