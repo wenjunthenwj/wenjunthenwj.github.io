@@ -7,7 +7,7 @@ Greetings and welcome to my personal website :D My favourite animal is the axolo
 ![Teaching](images/teaching banner.png){align = left}
 
 <i> 
-:octicons-dot-fill-16: [A Math Complete Guide Youtube video (2023)](https://youtu.be/tWSbQ-FF3Kg)
+:octicons-dot-fill-16: [A Math Complete Guide Youtube video (2023) Click to view!](https://youtu.be/tWSbQ-FF3Kg)
 
 :octicons-dot-fill-16: Programming Instructor, SGCodeCampus (2021-2023)
 
