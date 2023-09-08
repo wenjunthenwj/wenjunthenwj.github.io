@@ -17,9 +17,7 @@ Greetings and welcome to my personal website :D My favourite animal is the axolo
 
 I first picked up teaching while in university as a side hustle and also because I really enjoy talking and explaining stuff, partially also because I am quite an extrovert. One of the main reasons why I enjoy teaching is to be able to create content and unique experiences for my students. I also realised I really enjoyed being in a school environment after teaching A-math in Anglican High during my summer vacation in university. I still remembered my first ever form class wrote me a big card before I left and it has given me so much encouragement through tough times, thank you 4H <3
 
-I decided to just try my luck and applied to MOE to become a full-time teacher. They got back to me with an offer, and I felt stuck in a dilemma about choosing between working in engineering or to pursue teaching. But after reflecting on all the amazing memories and the joy I felt while teaching, I felt that it was the right choice for me. I prayed about it and decided to full commit and hopefully never look back.
-
-I’d like to sum up my teaching philosophy in one sentence: “Before I am a teacher, I will be a forever student. Never stop learning.”
+I decided to just try my luck and applied to MOE to become a full-time teacher. They got back to me with an offer, and I felt stuck in a dilemma about choosing between working in engineering or to pursue teaching. But after reflecting on all the amazing memories and the joy I felt while teaching, I felt that it was the right choice for me. I prayed about it and decided to full commit and hopefully never look back. I’d like to sum up my teaching philosophy in one sentence: “Before I am a teacher, I will be a forever student. Never stop learning.”
 
 ## <b> Education </b>
 
