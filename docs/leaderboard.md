@@ -1,15 +1,11 @@
 # Leaderboard
 
-## <b> 2 Courage E-Math </b>
+## <b> Sec 1 Math </b>
 
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="2Cou") }}
+{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="Sec 1") }}
 
-## <b> 3 Exp E-Math </b>
+## <b> Sec 2 Math </b>
 
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="3Exp") }}
-
-## <b> 2 Res E-Math </b>
-
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="2Res") }}
+{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="Sec 2") }}
 
 
