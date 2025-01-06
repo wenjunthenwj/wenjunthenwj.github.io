@@ -12,13 +12,11 @@ Other than completing homework problems, students can earn stars by unlocking ac
 
 ## <b> Easy Achievements </b>
 
-<b>(:star:) I love Math: </b> Send me a telegram bubble of themselves or with a group of friends saying "I love math!" with a thumbs up sign
-
-<b>(:star:) I Say Hi: </b> Goes to the first three people that likes and replies "FLFC" to any of my messages in the group chat.
+<b>(:star:) I Say Hi: </b> Goes to the first three people that says hi to me in our math group chat.
 
 <b>(:star:) Consultation Star: </b> Arranged and attended a solo or small group math consultation with me.
 
-<b>(:star:) Gaming is life: </b> Played with or against me in any video game that I enjoy playing. [Click here](https://wenjunthenwj.github.io/#video-games) for more about games that I play :smile:
+<b>(:star:) Gaming is life: </b> Plays any of the video games that I enjoy playing.
 
 <b>(:star:) Blast to the Past: </b> Name me three famous mathematicians and one of the theorems they discovered (can be in person or via text).
 
@@ -44,4 +42,4 @@ Other than completing homework problems, students can earn stars by unlocking ac
 
 <b>(:star::star::star::star::star:) Future Mathematician: </b> Provide a method for a problem in the homework assignment that is unique or better than the model answer.
 
-<b>(:star::star::star::star::star:) Math Genius: </b> Top the entire cohort (not just our class) for any graded test or exam.
+<b>(:star::star::star::star::star:) Math Genius: </b> Get a perfect score for any graded test or exam.

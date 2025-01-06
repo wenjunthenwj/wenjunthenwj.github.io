@@ -7,11 +7,9 @@ Greetings and welcome to my personal website :D My favourite animal is the axolo
 ![Teaching](images/teaching banner.png){align = left}
 
 <i> 
-:octicons-dot-fill-16: [A Math Complete Guide Youtube video (2023) Click to view!](https://youtu.be/tWSbQ-FF3Kg)
+:octicons-dot-fill-16: [O Level Math Complete Guide Youtube video series (2023) Click to view!](https://www.youtube.com/playlist?list=PLVrDw2Y4Mn3wP44tbzNTLAql7jcFEdUow)
 
 :octicons-dot-fill-16: Programming Instructor, SGCodeCampus (2021-2023)
-
-:octicons-dot-fill-16: Freelance math tutor (2020) </i> 
 
 I first picked up teaching while in university as a side hustle and also because I really enjoy talking and explaining stuff, partially also because I am quite an extrovert. One of the main reasons why I enjoy teaching is to be able to create content and unique experiences for my students. I also realised I really enjoyed being in a school environment after teaching A-math in Anglican High during my summer vacation in university. I still remembered my first ever form class wrote me a big card before I left and it has given me so much encouragement through tough times, thank you 4H <3
 
