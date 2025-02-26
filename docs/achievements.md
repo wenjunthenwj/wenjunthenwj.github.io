@@ -14,7 +14,7 @@ Other than completing homework problems, students can earn stars by unlocking ac
 
 <b>(:star:) I Say Hi: </b> Goes to the first three people that says hi to me in our math group chat.
 
-<b>(:star:) Consultation Star: </b> Arranged and attended a solo or small group math consultation with me.
+<b>(:star:) Nowhere to Hide: </b> Remembered by me for the rest of the year for a unique/positive reason.
 
 <b>(:star:) Gaming is life: </b> Plays any of the video games that I enjoy playing.
 

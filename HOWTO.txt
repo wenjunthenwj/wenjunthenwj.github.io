@@ -11,7 +11,7 @@ CTRL + S
 
 Pushing to github:
 git add .
-git commit -m 'Adding youtube video'
+git commit -m 'Updating Scores'
 git push origin main
 
 After an academic year:
