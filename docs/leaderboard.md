@@ -1,15 +1,19 @@
 # Leaderboard
 
-## <b> Sec 1 Math </b>
+## <b> Sec 3 A Math </b>
 
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="Sec 1") }}
+{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="S3 AM") }}
 
-## <b> Sec 3 Math </b>
+## <b> Sec 2 G2 Math </b>
 
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="Sec 3") }}
+{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="S2 G2") }}
 
-## <b> Sec 2 Math </b>
+## <b> Sec 2 G3 Math </b>
 
-{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="Sec 2") }}
+{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="S2 G3") }}
+
+## <b> Sec 3 G1 Computing </b>
+
+{{ read_excel('./data.xlsx', engine='openpyxl', sheet_name="S3 G1 Comp") }}
 
 
